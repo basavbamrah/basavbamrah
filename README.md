@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basavbamrah" alt="basavbamrah" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking**
-
 - ⚡ Fun fact **Computer Science Engineering is not just about programming**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/venomdevil.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
