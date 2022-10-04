@@ -68,13 +68,14 @@
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=basavbamrah&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 50%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavbamrah&show_icons=true&locale=en&layout=compact&theme=radical" alt="basavbamrah" style="width: 45%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavbamrah&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="basavbamrah" style="width: 45%" />
 <br/>
   <br/>
+  <br/>
+<div align='center'>
+<img src="https://streak-stats.demolab.com?user=basavbamrah&theme=radical&hide_border=true">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=basavbamrah&theme=radical)](https://git.io/streak-stats)
- 
-
+  </div>
 </div>   
 
   
