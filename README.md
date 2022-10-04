@@ -69,11 +69,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=basavbamrah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=basavbamrah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>   
 
-<br/>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavbamrah&show_icons=true&locale=en&layout=compact" alt="basavbamrah" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavbamrah&show_icons=true&locale=en&layout=compact" alt="basavbamrah" /></p>
   
 
 <br/>  
@@ -93,4 +91,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
