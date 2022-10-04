@@ -67,7 +67,7 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=basavbamrah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 53%" />
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=basavbamrah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavbamrah&show_icons=true&locale=en&layout=compact" alt="basavbamrah" style="width: 45%" />
 
 </div>   
