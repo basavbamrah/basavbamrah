@@ -17,18 +17,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/basavbamrah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/basav-bamrah" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/basavbamrah" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+<a href="https://linkedin.com/in/basavbamrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basavbamrah" height="30" width="40" /></a>
+<a href="https://kaggle.com/basavbamrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="basavbamrah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/venom_devil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="venom_devil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/venom_devil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venom_devil" height="30" width="40" /></a>
   
-  [![LeetCode user venom_devil](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvenom_devil&logo=leetcode&logoColor=yellow)](https://leetcode.com/venom_devil/)
 </div>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
