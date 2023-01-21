@@ -26,6 +26,8 @@
 <a href="https://www.kaggle.com/basavbamrah" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+  
+  [![LeetCode user venom_devil](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvenom_devil&logo=leetcode&logoColor=yellow)](https://leetcode.com/venom_devil/)
 </div>  
 
 ## My Skill Set  
