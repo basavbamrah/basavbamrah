@@ -14,6 +14,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/venomdevil.png" alt="TryHackMe">
 <br/>  
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basavbamrah" alt="basavbamrah" /></a> </p>
 
 ## Connect with me  
 <div align="center">
