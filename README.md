@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/productive.gif" align="center" style="width:85" />
 </div>  
   
 
