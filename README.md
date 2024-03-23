@@ -3,7 +3,7 @@
 </div>  
   
 
-- 🌱 I’m currently learning Machine Learning and Data Science  
+- 🌱 I’m Machine Learning Engineer at <a href="https://humanli.com" />humanli.ai</a>
   
 
 - ❓ Ask me about anything related to Machine Learning, Data science, Internet Of Things  
@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact: Computer Science Engineering is not just about programming  
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/venomdevil.png" alt="TryHackMe">
-<br/>  
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/venomdevil.png" alt="TryHackMe">
+<br/>   -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basavbamrah" alt="basavbamrah" /></a> </p>
 
