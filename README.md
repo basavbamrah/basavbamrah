@@ -3,8 +3,7 @@
 </div>  
   
 
-- 🌱 I’m Machine Learning Engineer at <a href="https://humanli.com" />humanli.ai</a>
-  
+- 🌱 I’m Machine Learning Engineer 
 
 - ❓ Ask me about anything related to Machine Learning, Data science, Internet Of Things  
   
