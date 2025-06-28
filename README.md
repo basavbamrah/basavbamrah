@@ -3,9 +3,9 @@
 </div>  
   
 
-- 🌱 I’m Machine Learning Engineer 
+- 🌱 I’m an AI Engineer 
 
-- ❓ Ask me about anything related to Machine Learning, Data science, Internet Of Things  
+- ❓ Ask me about anything related to Machine Learning, Ai, LLMs, Diffusion Models
   
 
 - ⚡ Fun fact: Computer Science Engineering is not just about programming  
